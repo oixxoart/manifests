@@ -1,0 +1,25 @@
+{
+    "name": "wine-cellar",
+    "title": "Wine Cellar",
+    "description": "Dungeon Adventure",
+    "version": "1.0.0",
+    "author": "Oixxo Art",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "0.8.7",
+    "packs": [
+        {
+            "name": "module-scenes",
+            "label": "Wine Cellar Scenes",
+            "path": "./packs/scenes.db",
+            "entity": "Scene"
+        },
+        {
+            "name": "module-journal-entries",
+            "label": "Wine Cellar Notes",
+            "path": "./packs/journal-entries.db",
+            "entity": "JournalEntry"
+                }
+    ],
+    "manifest": "",
+    "download": "https://assets.moulinette.cloud/assets/download/oixxoart/wine-cellar.zip"
+  }

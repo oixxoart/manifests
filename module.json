@@ -20,6 +20,6 @@
             "entity": "JournalEntry"
                 }
     ],
-    "manifest": "",
+    "manifest": "https://github.com/oixxoart/manifests/edit/main/module.json",
     "download": "https://assets.moulinette.cloud/assets/download/oixxoart/wine-cellar.zip"
   }
